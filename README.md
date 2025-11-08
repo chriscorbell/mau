@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/syphant/mau/refs/heads/main/preview2.png" />
+  <img src="https://raw.githubusercontent.com/chriscorbell/mau/refs/heads/main/preview2.png" />
   <br>
 
 # mau
@@ -9,7 +9,7 @@
 
 <br>
 
-![preview2](https://raw.githubusercontent.com/syphant/mau/refs/heads/main/preview1.png)
+![preview2](https://raw.githubusercontent.com/chriscorbell/mau/refs/heads/main/preview1.png)
 </div>
 
 ## Features
@@ -37,9 +37,9 @@
 ## Installation
 After installing [glazewm](https://github.com/glzr-io/glazewm) and [zebar](https://github.com/glzr-io/zebar), run the below command in PowerShell if you have Git for Windows installed:
 ```
-git clone https://github.com/syphant/mau.git C:\Users\$env:username\.glzr\zebar\mau
+git clone https://github.com/chriscorbell/mau.git C:\Users\$env:username\.glzr\zebar\mau
 ``` 
-Alternatively, download the zip file in [releases](https://github.com/syphant/mau/releases) and extract the contents to `C:\Users\$USER\.glzr\zebar`
+Alternatively, download the zip file in [releases](https://github.com/chriscorbell/mau/releases) and extract the contents to `C:\Users\$USER\.glzr\zebar`
 
 Then:
 1. In zebar's context menu, choose `Empty cache & reload configs`, or alternatively just kill and relaunch zebar
